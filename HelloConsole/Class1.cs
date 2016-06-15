@@ -14,6 +14,7 @@ namespace HelloConsole
             Console.ReadKey();
             Console.Read();
             Console.Read();
+            masaksih
         }
     }
 }
