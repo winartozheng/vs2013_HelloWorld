@@ -12,6 +12,7 @@ namespace HelloConsole
         {
             Console.Write("fdfd");
             Console.ReadKey();
+            Console.Read();
         }
     }
 }
