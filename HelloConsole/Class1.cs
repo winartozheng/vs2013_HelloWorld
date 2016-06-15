@@ -15,6 +15,7 @@ namespace HelloConsole
             Console.Read();
             Console.Read();
             masaksih
+            kojkihj
         }
     }
 }
