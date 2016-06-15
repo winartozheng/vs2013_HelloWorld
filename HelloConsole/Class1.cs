@@ -8,5 +8,9 @@ namespace HelloConsole
 {
     class Class1
     {
+        public void MethodA()
+        {
+
+        }
     }
 }
