@@ -8,5 +8,9 @@ namespace HelloConsole
 {
     class Class1
     {
+        protected void Hello()
+        {
+            Console.Write("fdfd");
+        }
     }
 }
